@@ -37,7 +37,7 @@ section {
 section input {
     width: 30rem; /* Largura dos inputs */
     border: none; /* Remove a borda padrão */
-    padding: 2rem; /* Espaçamento interno */
+    padding: 1rem; /* Espaçamento interno */
     border-radius: 1.0rem; /* Borda arredondada
     margin-bottom: 8rem; /* Espaçamento abaixo dos inputs */
     color: #45474B; /* Cor do texto */
